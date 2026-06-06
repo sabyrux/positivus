@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+node_modules
+
+src/styles/main.css
+src/styles/main.css.map
